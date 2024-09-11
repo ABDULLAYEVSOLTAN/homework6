@@ -1,0 +1,36 @@
+.main{
+    width: 950px;
+    height: 900px;
+   background-color: rgb(255, 255, 255);
+    margin-left: 300px;
+}
+.home{
+    width: inherit;
+    height: 550px;
+    background-image:  url(https://img.freepik.com/premium-photo/dj-man-working-night-party-with-blue-light_1021945-3049.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 50px;
+   
+}
+.navbar{
+    width: inherit;
+    height: 40px;
+    
+}
+.big{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+    top: -50px;
+    right: -106px;
+}
+.work{
+    border-top: solid 1px white;
+background-image: url(https://static.vecteezy.com/system/resources/previews/002/282/910/original/elegant-white-background-free-vector.jpg);
+width: inherit;
+height: 350px;
+box-shadow: 10 10;
+}
